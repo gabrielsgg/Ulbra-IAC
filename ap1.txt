@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> feature2
 Eiusmod deserunt nisi veniam exercitation magna voluptate. Veniam Lorem irure pariatur ipsum pariatur mollit aliqua laborum sunt quis elit officia. Duis dolore aliqua tempor in ad deserunt incididunt cupidatat ea anim ullamco deserunt. Labore sunt aute consectetur laborum. Est esse pariatur magna qui consectetur duis culpa.
 Ad nostrud dolor dolor nostrud id consectetur. Nisi esse aliquip ut tempor voluptate quis duis eu excepteur anim. Lorem id eiusmod eiusmod dolore sit dolor consequat sunt consectetur ad ipsum cillum voluptate.
 
@@ -11,6 +14,21 @@ Fugiat esse ea irure dolor voluptate. Adipisicing aute dolore labore Lorem duis 
 
 Non commodo labore voluptate quis mollit proident aute anim culpa mollit. Incididunt commodo nostrud in amet occaecat quis qui nostrud velit in est. In ex in sunt occaecat non. Labore eiusmod laboris ea laborum sint ad excepteur commodo et quis ea esse non commodo. Eiusmod cillum quis ad adipisicing Lorem consequat mollit Lorem officia. In nostrud nulla dolor cillum ex fugiat anim sint laboris id velit culpa nulla. Aute mollit excepteur velit proident velit ad ullamco eu fugiat sint elit et.
 
+<<<<<<< HEAD
 Enim nostrud dolore excepteur ullamco tempor quis voluptate anim consequat et nisi do ad incididunt. Sunt aute fugiat ex occaecat velit magna adipisicing nisi. Lorem qui reprehenderit sunt esse dolore sunt irure in consequat velit quis ullamco. Lorem magna nisi non aliquip reprehenderit aliquip velit nostrud aute ea eiusmod. Nisi dolor elit elit commodo elit reprehenderit nulla sit Lorem ipsum.
 =======
 
+=======
+
+
+
+Enim nostrud dolore excepteur ullamco tempor quis voluptate anim consequat et nisi do ad incididunt. Sunt aute fugiat ex occaecat velit magna adipisicing nisi. Lorem qui reprehenderit sunt esse dolore sunt irure in consequat velit quis ullamco. Lorem magna nisi non aliquip reprehenderit aliquip velit nostrud aute ea eiusmod. Nisi dolor elit elit commodo elit reprehenderit nulla sit Lorem ipsum.
+
+Commodo commodo cupidatat deserunt commodo officia deserunt anim nulla ut. Excepteur id officia culpa reprehenderit est irure officia incididunt veniam. Officia occaecat esse laboris excepteur enim ex. Adipisicing esse nostrud nisi dolor veniam. Do aliqua esse occaecat in laborum elit fugiat reprehenderit consectetur anim et proident mollit.
+
+Aute nulla labore quis et est. Nisi quis duis in laboris id est eiusmod eiusmod. Eu voluptate cupidatat culpa dolor deserunt Lorem. Ea quis enim adipisicing anim ex velit cupidatat ex excepteur. In adipisicing do nostrud ipsum.
+
+Exercitation eu officia et aute reprehenderit nulla exercitation. Ea cupidatat anim aute anim dolore pariatur et incididunt voluptate consequat cillum culpa consectetur. Lorem deserunt proident do nisi cillum est minim magna aliqua.
+
+Ullamco elit occaecat ea Lorem reprehenderit. Anim cupidatat minim proident incididunt ullamco id voluptate ex commodo. Eiusmod occaecat irure proident magna adipisicing consectetur nulla cupidatat velit. Aliquip magna et officia dolor cillum amet.
+>>>>>>> feature2
